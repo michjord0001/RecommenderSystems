@@ -1,4 +1,4 @@
-# RecommenderSystem
+# RecommenderSystems
 Two Recommender Systems based on a movie dataset. 
 
 1. Non-Personalised, and 
