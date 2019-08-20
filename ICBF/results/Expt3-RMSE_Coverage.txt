@@ -1,0 +1,4 @@
+similarity.metric.CosineMetric@dab48d3, 200, 3.2682615341638197, 5.4014291719209755
+similarity.metric.PearsonMetric@5dae5a70, 200, 3.289060157859616, 26.618327028163094
+similarity.metric.PearsonSigWeightingMetric@2e03bb74, 200, 3.2063081967138496, 44.32534678436318
+similarity.metric.MeanSquaredDifferenceMetric@7afffc81, 200, 3.1551860672702055, 45.638923917612445
