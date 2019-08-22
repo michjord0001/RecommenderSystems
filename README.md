@@ -15,7 +15,9 @@ Environment provided by lecturer. Following classes written by me:
 **Similarity Metrics**
 
 [./NP/src/alg/np/similarity/metric/RatingMetric.java](./NP/src/alg/np/similarity/metric/RatingMetric.java)
+
 [./NP/src/alg/np/similarity/metric/IncConfidenceMetric.java](./NP/src/alg/np/similarity/metric/IncConfidenceMetric.java)
+
 [./NP/src/alg/np/similarity/metric/GenomeMetric.java](./NP/src/alg/np/similarity/metric/GenomeMetric.java)
 
 **Runnables**
@@ -27,23 +29,31 @@ Environment provided by lecturer. Following classes written by me:
 **Similarity Metrics**
 
 [./ICBF/src/similarity/metric/CosineMetric.java](./ICBF/src/similarity/metric/CosineMetric.java)
+
 [./ICBF/src/similarity/metric/MeanSquaredDifferenceMetric.java](./ICBF/src/similarity/metric/MeanSquaredDifferenceMetric.java)
+
 [./ICBF/src/similarity/metric/PearsonMetric.java](./ICBF/src/similarity/metric/PearsonMetric.java)
+
 [./ICBF/src/similarity/metric/PearsonSigWeightingMetric.java](./ICBF/src/similarity/metric/PearsonSigWeightingMetric.java)
 
 **Neighbourhoods**
 
 [./ICBF/src/alg/ib/neighbourhood/NearestNeighbourhood.java](./ICBF/src/alg/ib/neighbourhood/NearestNeighbourhood.java)
+
 [./ICBF/src/alg/ib/neighbourhood/ThresholdNeighbourhood.java](./ICBF/src/alg/ib/neighbourhood/ThresholdNeighbourhood.java)
 
 **Predictors**
 
 [./ICBF/src/alg/ib/predictor/SimpleAveragePredictor.java](./ICBF/src/alg/ib/predictor/SimpleAveragePredictor.java)
+
 [./ICBF/src/alg/ib/predictor/WeightedAveragePredictor.java](./ICBF/src/alg/ib/predictor/WeightedAveragePredictor.java)
+
 [./ICBF/src/alg/ib/predictor/DeviationFromItemMeanPredictor.java](./ICBF/src/alg/ib/predictor/DeviationFromItemMeanPredictor.java)
 
 **Runnables**
 
 [./ICBF/src/alg/ib/ExecuteIB_Expt_1.java](./ICBF/src/alg/ib/ExecuteIB_Expt_1.java)
+
 [./ICBF/src/alg/ib/ExecuteIB_Expt_2.java](./ICBF/src/alg/ib/ExecuteIB_Expt_2.java)
+
 [./ICBF/src/alg/ib/ExecuteIB_Expt_3.java](./ICBF/src/alg/ib/ExecuteIB_Expt_3.java)
