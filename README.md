@@ -14,13 +14,13 @@ Environment provided by lecturer. Following classes written by me:
 ## NP
 **Similarity Metrics**
 
-[./RecommenderSystems/NP/src/alg/np/similarity/metric/RatingMetric.java]
-[../RecommenderSystems/NP/src/alg/np/similarity/metric/IncConfidenceMetric.java]
-[../NP/src/alg/np/similarity/metric/GenomeMetric.java]
+[./RecommenderSystems/NP/src/alg/np/similarity/metric/RatingMetric.java](./RecommenderSystems/NP/src/alg/np/similarity/metric/RatingMetric.java)
+[../RecommenderSystems/NP/src/alg/np/similarity/metric/IncConfidenceMetric.java](../RecommenderSystems/NP/src/alg/np/similarity/metric/IncConfidenceMetric.java)
+[../NP/src/alg/np/similarity/metric/GenomeMetric.java](../NP/src/alg/np/similarity/metric/GenomeMetric.java)
 
 **Runnables**
 
-[./NP/src/alg/np/ExecuteNP_Expt.java]
+[./NP/src/alg/np/ExecuteNP_Expt.java](./NP/src/alg/np/ExecuteNP_Expt.java)
 
 
 ## ICBF
